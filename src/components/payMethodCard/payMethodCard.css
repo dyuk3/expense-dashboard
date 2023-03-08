@@ -1,0 +1,32 @@
+.dashboard__payMethodCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.dashboard__payMethodCard-info {
+  display: flex;
+  justify-content: space-between;
+  gap: 6rem;
+}
+
+.dashboard__payMethodCard-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dashboard__payMethodCard-logo img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.cent {
+  background-color: lightskyblue;
+  border-radius: 8px;
+  padding: 0 0.5rem;
+  color: blue;
+}

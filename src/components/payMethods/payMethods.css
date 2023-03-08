@@ -1,0 +1,15 @@
+.dashboard__payMethods {
+  margin: 2rem 0;
+  margin-bottom: 5rem;
+}
+
+.dashboard__payMethods h2 {
+  margin-bottom: 3rem;
+}
+
+.dashboard__payMethods-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}

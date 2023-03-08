@@ -1,0 +1,25 @@
+.dashboard__statistics {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.dashboard__balance-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+.statistics-header-right {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.statistics-header-right img {
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+}
